@@ -1,6 +1,6 @@
 
 <h1 align="center">puts " I am ALOUA Hajar " </h1>
-<h3  align="left"  >A DATA/COMPUTER SCIENCE ENGINEERING STUDENT</h3>
+<h3  align="left" >A DATA/COMPUTER SCIENCE ENGINEERING STUDENT</h3>
 <img src='https://i.postimg.cc/L8Lp2xdB/profile.jpg' border='0' alt='profile'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajar-tech&label=Profile%20views&color=0e75b6&style=flat" alt="hajar-tech" /> </p>
 
